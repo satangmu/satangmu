@@ -2,9 +2,7 @@
 
 
 ## About Me
-- 안녕하세요. 저는 중진공에서 실시한 AI 부트캠프 이어드림스쿨(3기) 교육과정을 2023년 3월 27일에 시작해서 12월 29일에 수료했습니다.
-- 교육과정 동안 NLP에 관심을 가지게 되어서 수료 후 현재 깊이있게 공부하고 있습니다.
-
+- 안녕하세요. 좋은 AI Engineer 가 되기위해 공부하고 있는 황재연입니다.
 ## Tech Stacks
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
