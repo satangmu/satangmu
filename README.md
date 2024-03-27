@@ -2,7 +2,7 @@
 
 
 ## About Me
-- 안녕하세요. 좋은 AI Engineer 가 되기위해 공부하고 있는 황재연입니다.
+- 안녕하세요. 저는 AI 부트캠프 이어드림 스쿨 3기를 수료하고, 현재 프롬프트 엔지니어에 관심이 생겨 공부하고 있는 황재연입니다.  
 ## Tech Stacks
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
